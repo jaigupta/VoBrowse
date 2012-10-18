@@ -1,0 +1,12 @@
+-------------------------------------
+Installation instructions for Fedora.
+-------------------------------------
+Run script install.sh from folder where you have stored the tar.
+This will automatically install all dependencies needed and then install VoBrowse in current directory and will also add a symbolic link in /usr/bin/ to the executable. It will also add shortcuts in the XDG directories.
+
+
+-------------------------------------
+Uninstallation
+-------------------------------------
+Run uninstall.sh from the same folder. This will uninstall VoBrowse. The uninstaller does not do dependency resolution so any dependencies not needed by any other application must be manually uninstalled. 
+

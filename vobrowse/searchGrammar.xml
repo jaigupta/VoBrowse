@@ -1,0 +1,105 @@
+<GRAMMAR LANGID="409">
+<RULE NAME="SGRAM" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="command">
+            <P>a</P>
+            <P>b</P>
+            <P>c</P>
+            <P>d</P>
+            <P>e</P>
+            <P>f</P>
+            <P>g</P>
+            <P>h</P>
+            <P>i</P>
+            <P>j</P>
+            <P>k</P>
+            <P>l</P>
+            <P>m</P>
+            <P>n</P>
+            <P>o</P>
+            <P>p</P>
+            <P>q</P>
+            <P>r</P>
+            <P>s</P>
+            <P>t</P>
+            <P>u</P>
+            <P>v</P>
+            <P>w</P>
+            <P>x</P>
+            <P>y</P>
+            <P>z</P>
+            <P>a for apple</P>
+            <P>b for ball</P>
+            <P>c for cat</P>
+            <P>d for doll</P>
+            <P>e for elephant</P>
+            <P>f for fish</P>
+            <P>g for girl</P>
+            <P>h for hen</P>
+            <P>i for ink</P>
+            <P>j for joker</P>
+            <P>k for kite</P>
+            <P>l for lion</P>
+            <P>m for monkey</P>
+            <P>n for nest</P>
+            <P>o for owl</P>
+            <P>p for pig</P>
+            <P>q for queen</P>
+            <P>r for rat</P>
+            <P>s for ship</P>
+            <P>t for toy</P>
+            <P>u for umbrella</P>
+            <P>v for van</P>
+            <P>w for wheel</P>
+            <P>x for xmas</P>
+            <P>y for yak</P>
+            <P>z for zebra</P>
+			<P>aaa</P>
+			<P>aea</P>
+            <P>bee</P>
+            <P>cee</P>
+            <P>dee</P>
+            <P>ee</P>
+            <P>ef</P>
+            <P>gee</P>
+            <P>eh</P>
+            <P>aai</P>
+            <P>jay</P>
+            <P>kay</P>
+            <P>el</P>
+            <P>em</P>
+            <P>en</P>
+            <P>ao</P>
+            <P>pee</P>
+            <P>que</P>
+            <P>aar</P>
+            <P>aes</P>
+            <P>tee</P>
+            <P>you</P>
+            <P>we</P>
+            <P>double oo</P>
+            <P>double you</P>
+            <P>why</P>
+			<P>axe</P>
+            <P>zed</P>
+            <P>zee</P>
+            <P>0</P>
+            <P>1</P>
+            <P>2</P>
+            <P>3</P>
+            <P>4</P>
+            <P>5</P>
+            <P>6</P>
+            <P>7</P>
+            <P>8</P>
+            <P>9</P>
+            <P>star</P>
+            <P>question</P>
+			<P>question mark</P>
+			<P>priod</P>
+			<P>done</P>
+			<P>delete single letter</P>
+			<P>delete all letters</P>
+			<P>cancel</P>
+        </L>
+</RULE>
+</GRAMMAR>

@@ -1,0 +1,38 @@
+<GRAMMAR LANGID="409">
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="command">
+            <P>
+				<P>open</P>
+				<RULEREF NAME="FILENAME" PROPNAME="files"/>
+			</P>
+            <P>close</P>
+            <P>move back</P>
+            <P>move forward</P>
+				<P>find files</P>
+            <P>move up</P>
+            <P>show bookmark</P>
+            <P>show history</P>
+            <P>show find result</P>
+            <P>show browser</P>
+			<P>turn silent</P>
+			<P>list files</P>
+			<P>bookmark this</P>
+			<P>browse drive A</P>
+			<P>browse drive B</P>
+			<P>browse drive C</P>
+			<P>browse drive D</P>
+			<P>browse drive E</P>
+			<P>browse drive F</P>
+			<P>browse drive G</P>
+			<P>browse drive H</P>
+			<P>browse drive I</P>
+			<P>browse drive J</P>
+			<P>browse drive K</P>
+			<P>browse drive L</P>
+			<P>browse drive M</P>
+        </L>
+</RULE>
+<RULE NAME="FILENAME" ID="140" DYNAMIC="TRUE">
+<PHRASE>placeholder</PHRASE>
+</RULE>
+</GRAMMAR>

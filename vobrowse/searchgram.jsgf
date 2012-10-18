@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar hello;
+public <command> = ( a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a for apple | b for ball | c for cat | d for doll | e for elephant | f for fish | g for girl | h for hen | i for ink | j for joker | k for kite | l for lion | m for monkey | n for nest | o for owl | p for pig | q for queen | r for rat | s for ship | t for toy | u for umbrella | v for van | w for wheel | x for xylophone | y for yak | z for zebra | one | two | three | four | five | six | seven | eight | nine | star | question | question mark | done | delete single letter | period | delete add letters | cancel );

@@ -1,0 +1,30 @@
+<GRAMMAR LANGID="409">
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+       <OPT>
+       <L>
+            <P>Please</P>
+            <P>Please help me</P>
+            <P>Please help me to</P>
+            <P>I want to</P>
+            <P>I'd like to</P>
+            <P>I would like</P>
+            <P>I would like to</P>
+            <P>Can you help me</P>
+            <P>Can you help me to</P>
+       </L>
+       </OPT>
+        <L PROPNAME="command">
+            <P>
+				<P>open</P>
+				<RULEREF NAME="FILENAME" PROPNAME="files"/>
+			</P>
+            <P>close</P>
+            <P>back</P>
+            <P>forward</P>
+            <P>search</P>
+        </L>
+</RULE>
+<RULE NAME="FILENAME" ID="140" DYNAMIC="TRUE">
+<PHRASE>placeholder</PHRASE>
+</RULE>
+</GRAMMAR>

@@ -1,0 +1,13 @@
+<GRAMMAR LANGID="409">
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="command">
+            <P>navigate up</P>
+            <P>navigate down</P>
+            <P>font up</P>
+            <P>font down</P>
+			<P>turn silent</P>
+			<P>speak again</P>
+            <P>close</P>
+        </L>
+</RULE>
+</GRAMMAR>

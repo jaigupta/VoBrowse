@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=VoBrowse
+GenericName=Voice Controlled Browser
+Categories=Utility;
+Exec=/usr/bin/vobrowse
+Icon=vobrowse
+X-Window-Icon=vobrowse
+X-Window-Icon-Dimmed=vobrowse

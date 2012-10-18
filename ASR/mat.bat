@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Speech SDK 5.1\Bin\gc.exe" /o C:\Users\Jai\Desktop\opensoft\windowsImp\SampleCoding-NativeCoding-ASR2\ASR\meeting2.cfg C:\Users\Jai\Desktop\opensoft\windowsImp\SampleCoding-NativeCoding-ASR2\ASR\meeting2.xml
